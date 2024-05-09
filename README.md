@@ -10,7 +10,9 @@ Let's explore the world of ethical hacking together!
 
 ## Phase 1: Reconnaissance 
 One of the most critical stages for network mapping, information gathering, and vulnerability identification.
+
 **Used Command line tools:** 
+
 - theHarvester: Finding e-mail accounts, subdomain names, virtual hosts, IP addresses - https://github.com/laramies/theHarvester
 - assetfinder: Finding Sub-domains - https://github.com/tomnomnom/assetfinder
 - amass: Finding Root and Sub-domains - https://github.com/OWASP/Amass
@@ -23,8 +25,11 @@ One of the most critical stages for network mapping, information gathering, and 
 - GoWitness: Taking Screenshots of Websites - https://github.com/sensepost/gowitness
 
 **Credits**
+
 I would like to express my heartfelt gratitude to @hmaverickadams for their exceptional guidance and mentorship, which have been instrumental in enhancing my ethical hacking skills through his great course on [TCM Security Academy](https://tcm-sec.com)
+
 [sumrecon](https://github.com/thatonetester/sumrecon)
+
 [TCM's modified script](https://pastebin.com/MhE6zXVt)
 
 
