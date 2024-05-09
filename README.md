@@ -9,7 +9,7 @@ Let's explore the world of ethical hacking together!
 - you can use this website: [BugCrowd] (https://bugcrowd.com/)
 
 ## Phase 1: Reconnaissance 
-One of the most critical stages for network mapping, information gathering, and vulnerability identification.
+One of the most critical stages for network mapping, information gathering, and vulnerability identification. you can find my own automated bash script code used in [recon.sh file](recon.sh)
 
 **Used Command line tools:** 
 
@@ -26,9 +26,9 @@ One of the most critical stages for network mapping, information gathering, and 
 
 **Credits**
 
-I would like to express my heartfelt gratitude to @hmaverickadams for their exceptional guidance and mentorship, which have been instrumental in enhancing my ethical hacking skills through his great course on [TCM Security Academy](https://tcm-sec.com)
+I would like to express my heartfelt gratitude to [Heath Adams](https://github.com/hmaverickadams) for their exceptional Ethical Hacking course on [TCM Security Academy](https://tcm-sec.com), which have been instrumental in enhancing my ethical hacking skills. 
 
-[sumrecon](https://github.com/thatonetester/sumrecon)
+[sumrecon code](https://github.com/thatonetester/sumrecon)
 
 [TCM's modified script](https://pastebin.com/MhE6zXVt)
 
